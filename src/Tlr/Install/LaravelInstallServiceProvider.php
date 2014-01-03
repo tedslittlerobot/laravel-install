@@ -1,4 +1,4 @@
-<?php namespace Tlr\LaravelInstall;
+<?php namespace Tlr\Install;
 
 use Illuminate\Support\ServiceProvider;
 
