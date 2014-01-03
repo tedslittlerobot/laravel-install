@@ -1,0 +1,20 @@
+{
+    "name": "tlr/laravel-install",
+    "description": "",
+    "authors": [
+        {
+            "name": "Stef Horner",
+            "email": "stef@tedslittlerobot.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Tlr\\LaravelInstall": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
